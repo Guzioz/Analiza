@@ -1,2 +1,4 @@
 # Analiza
 analiza
+analiza 
+
