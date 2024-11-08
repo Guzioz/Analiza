@@ -1,2 +1,2 @@
 # Analiza
-analiza jest fajna 12345
+analiza jest fajna 123456
