@@ -1,2 +1,2 @@
 # Analiza
-analiza
+analiza jest fajna
